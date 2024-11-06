@@ -31,20 +31,17 @@ Welcome to my GitHub profile! I'm passionate about technology and always excited
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername/)
-- [Personal Website or Blog](https://yourwebsite.com)
+- [Facebook]
+- [Twitter]
+- [Youtube]
+- [Personal Website]
 
 ---
 
 ## 📂 Featured Projects
 
 Here are a few of my favorite projects:
-
-- [**Project 1**](https://github.com/yourusername/project1): *Brief description of Project 1.*
-- [**Project 2**](https://github.com/yourusername/project2): *Brief description of Project 2.*
-- [**Project 3**](https://github.com/yourusername/project3): *Brief description of Project 3.*
-
+- Update in the Future XD -
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate on a project. 😊
