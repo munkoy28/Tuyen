@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm passionate about technology and always excited
 ## 📂 Featured Projects
 
 Here are a few of my favorite projects:
-- Update in the Future XD -
+- Update in the Future XD 
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate on a project. 😊
