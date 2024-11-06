@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm passionate about technology and always excited
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Current Project or Job Role]**
-- 🌱 I’m currently learning **[Current Skills You're Developing]**
-- 👯 I’m looking to collaborate on **[Type of Projects You’d Like to Collaborate On]**
-- 🤔 I’m looking for help with **[Any Specific Help Needed]**
-- 💬 Ask me about **[Your Core Competencies or Interests]**
-- 📫 How to reach me: **[Your Email or Preferred Contact Information]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
+- 🔭 I’m currently working on **School**
+- 🌱 I’m currently learning **Coding**
+- 🤔 I’m looking for help with **Code Programing**
+- 📫 How to reach me: **tuongvantuyen2006@gmail.com**
+- ⚡ Fun fact: **T1con**
 
 ---
 
