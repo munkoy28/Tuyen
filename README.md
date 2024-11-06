@@ -16,10 +16,10 @@ Welcome to my GitHub profile! I'm passionate about technology and always excited
 
 ## 🛠️ Tech Stack
 
-- **Languages:** [Languages You're Skilled In, e.g., Python, JavaScript, C++]
-- **Frameworks & Libraries:** [Key Frameworks and Libraries, e.g., React, Node.js, Django, TensorFlow]
-- **Tools & Platforms:** [Tools and Platforms, e.g., Docker, AWS, Git, VS Code]
-- **Databases:** [Databases You're Familiar With, e.g., MySQL, MongoDB, PostgreSQL]
+- **Languages:** Python, JavaScript, C++
+- **Frameworks & Libraries:** React, Node.js, Django, TensorFlow
+- **Tools & Platforms:** Git, VS Code
+- **Databases:** MySQL, MongoDB, PostgreSQL
 
 ---
 
