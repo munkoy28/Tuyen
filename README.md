@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Tuyen!
 
 Welcome to my GitHub profile! I'm passionate about [Your Interests, e.g., "full-stack development," "machine learning," "open-source contributions"] and always excited to learn new things and take on interesting projects.
 
